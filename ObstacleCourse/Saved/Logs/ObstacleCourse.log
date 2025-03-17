@@ -3672,3 +3672,275 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.17-16.59.45:516][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto4
 [2025.03.17-16.59.45:516][535]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_7426C46A_Auto483BC94024A4149E5AFE4E698DA150917.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto4.uasset'
 [2025.03.17-16.59.45:517][535]LogFileHelpers: Auto-saving content packages took 0.188
+[2025.03.17-17.02.32:330][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3605.841064
+[2025.03.17-17.02.32:505][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-17.02.32:505][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.007812, Update Interval: 350.165100
+[2025.03.17-17.03.09:859][ 37]Cmd: EDIT COPY
+[2025.03.17-17.03.10:059][ 61]Cmd: EDIT PASTE
+[2025.03.17-17.03.38:851][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.03.17-17.03.38:851][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.03.17-17.03.38:852][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2025.03.17-17.03.39:647][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.17-17.03.39:650][339]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.03.17-17.03.39:656][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.03.17-17.03.39:656][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.03.17-17.03.39:658][339]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1125176150
+[2025.03.17-17.03.41:909][587]Cmd: TRANSACTION UNDO
+[2025.03.17-17.03.41:909][587]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.04.21:694][850]LogDerivedDataCache: C:/Users/zakwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
+[2025.03.17-17.05.17:972][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.05.17:972][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.05.17:974][189]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1223492151
+[2025.03.17-17.05.17:974][189]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1223492151
+[2025.03.17-17.06.05:581][604]Cmd: TRANSACTION UNDO
+[2025.03.17-17.06.05:581][604]LogEditorTransaction: Undo Set Scale
+[2025.03.17-17.07.22:375][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.07.22:375][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.07.22:377][107]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1347895152
+[2025.03.17-17.07.22:377][107]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1347895152
+[2025.03.17-17.07.25:699][485]Cmd: TRANSACTION UNDO
+[2025.03.17-17.07.25:699][485]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.08.43:110][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.08.43:110][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.08.43:111][144]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1428630153
+[2025.03.17-17.08.43:112][144]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1428630153
+[2025.03.17-17.08.54:118][440]Cmd: TRANSACTION UNDO
+[2025.03.17-17.08.54:118][440]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.08.59:682][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3993.184570
+[2025.03.17-17.08.59:815][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-17.08.59:815][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3993.312012, Update Interval: 315.773193
+[2025.03.17-17.10.46:465][694]Cmd: TRANSACTION UNDO
+[2025.03.17-17.10.46:465][694]LogEditorTransaction: Undo Move Elements
+[2025.03.17-17.10.47:140][718]Cmd: TRANSACTION UNDO
+[2025.03.17-17.10.47:140][718]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.17-17.12.22:139][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.17-17.12.22:144][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/57/QQHKBK8EDTM3XDZALKJ4O5_Auto5
+[2025.03.17-17.12.22:144][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/QQHKBK8EDTM3XDZALKJ4O5_Auto50E3505284304E870B8CCA3BC24F175CF.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/57/QQHKBK8EDTM3XDZALKJ4O5_Auto5.uasset'
+[2025.03.17-17.12.22:148][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V1/0S9B83FOYO8232NO9E0GB9_Auto5
+[2025.03.17-17.12.22:148][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/0S9B83FOYO8232NO9E0GB9_Auto53DE991144F2B19AC63650D95ED1E5ED4.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V1/0S9B83FOYO8232NO9E0GB9_Auto5.uasset'
+[2025.03.17-17.12.22:150][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Y/KQPQ8RDJO2JOBQ3NKTR48X_Auto5
+[2025.03.17-17.12.22:150][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/KQPQ8RDJO2JOBQ3NKTR48X_Auto5C0F41EA74CD8DAD3895E52B508743148.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Y/KQPQ8RDJO2JOBQ3NKTR48X_Auto5.uasset'
+[2025.03.17-17.12.22:151][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KK/SORAQOI563993UR8UYPF8S_Auto5
+[2025.03.17-17.12.22:151][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SORAQOI563993UR8UYPF8S_Auto5562A6C4649D7FE5E305F10BC6930C8E7.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KK/SORAQOI563993UR8UYPF8S_Auto5.uasset'
+[2025.03.17-17.12.22:153][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Q/0YZIN2R8XPZ3NB1A7L6G4C_Auto5
+[2025.03.17-17.12.22:153][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/0YZIN2R8XPZ3NB1A7L6G4C_Auto5E410839D426FDCC041DEA18F501D8B9F.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Q/0YZIN2R8XPZ3NB1A7L6G4C_Auto5.uasset'
+[2025.03.17-17.12.22:155][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/U1/X8F72U4F69QTHXQMQM6CLP_Auto5
+[2025.03.17-17.12.22:155][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/X8F72U4F69QTHXQMQM6CLP_Auto5DA8442834C377C1F982BDCB2956501F5.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/U1/X8F72U4F69QTHXQMQM6CLP_Auto5.uasset'
+[2025.03.17-17.12.22:157][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6E/D7FDQ8KAMKO59UKMX2H4QS_Auto5
+[2025.03.17-17.12.22:157][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/D7FDQ8KAMKO59UKMX2H4QS_Auto5239FC61B44C4B39D8CBE128536A3D7E7.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6E/D7FDQ8KAMKO59UKMX2H4QS_Auto5.uasset'
+[2025.03.17-17.12.22:158][452]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2025.03.17-17.12.22:158][452]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2025.03.17-17.12.22:158][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828] ([1] browsable assets)...
+[2025.03.17-17.12.22:158][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828]
+[2025.03.17-17.12.22:160][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828_Auto5
+[2025.03.17-17.12.22:160][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_3D42D828_Auto5629563F94C4671AD9AAE289F31BE2A80.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828_Auto5.uasset'
+[2025.03.17-17.12.22:160][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106] ([1] browsable assets)...
+[2025.03.17-17.12.22:160][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106]
+[2025.03.17-17.12.22:162][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106_Auto5
+[2025.03.17-17.12.22:162][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_DF178106_Auto5B1A4707B4508A98FBB645B86C61F3D29.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106_Auto5.uasset'
+[2025.03.17-17.12.22:163][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3] ([1] browsable assets)...
+[2025.03.17-17.12.22:163][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3]
+[2025.03.17-17.12.22:164][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3_Auto5
+[2025.03.17-17.12.22:164][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_10AA3EF3_Auto59432ABA54DFD3D444162548FBE5D8426.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3_Auto5.uasset'
+[2025.03.17-17.12.22:165][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67] ([1] browsable assets)...
+[2025.03.17-17.12.22:165][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67]
+[2025.03.17-17.12.22:167][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67_Auto5
+[2025.03.17-17.12.22:167][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_9C75FA67_Auto5EBF4F61447D2BCB8EDE9D1A6168E5EF9.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67_Auto5.uasset'
+[2025.03.17-17.12.22:168][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32] ([1] browsable assets)...
+[2025.03.17-17.12.22:168][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32]
+[2025.03.17-17.12.22:170][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32_Auto5
+[2025.03.17-17.12.22:170][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_7490FA32_Auto5D738D2F94392FC24624E8EB8EA75342E.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32_Auto5.uasset'
+[2025.03.17-17.12.22:170][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF] ([1] browsable assets)...
+[2025.03.17-17.12.22:170][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF]
+[2025.03.17-17.12.22:172][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF_Auto5
+[2025.03.17-17.12.22:172][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_152838CF_Auto54EC41D4549DEE3D73B9A69A69600CA6D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF_Auto5.uasset'
+[2025.03.17-17.12.22:173][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A] ([1] browsable assets)...
+[2025.03.17-17.12.22:173][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A]
+[2025.03.17-17.12.22:174][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto5
+[2025.03.17-17.12.22:174][452]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_7426C46A_Auto5B8CF052549051FDEF798E8B82919F8DC.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto5.uasset'
+[2025.03.17-17.12.22:175][452]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.03.17-17.14.16:768][ 11]Cmd: EDIT COPY
+[2025.03.17-17.14.16:959][ 34]Cmd: EDIT PASTE
+[2025.03.17-17.14.21:634][543]Cmd: TRANSACTION UNDO
+[2025.03.17-17.14.21:634][543]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.14.22:917][641]Cmd: TRANSACTION UNDO
+[2025.03.17-17.14.22:917][641]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.14.46:113][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4339.614258
+[2025.03.17-17.14.46:264][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-17.14.46:264][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4339.755859, Update Interval: 309.118927
+[2025.03.17-17.16.42:491][932]Cmd: EDIT COPY
+[2025.03.17-17.16.42:674][954]Cmd: EDIT PASTE
+[2025.03.17-17.17.33:613][473]Cmd: MODE GRID=0
+[2025.03.17-17.17.38:211][  8]Cmd: MODE GRID=1
+[2025.03.17-17.17.47:973][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.17.47:973][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.17.47:975][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1973493156
+[2025.03.17-17.17.47:975][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_1973493156
+[2025.03.17-17.18.50:233][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.18.50:233][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.17-17.18.50:235][173]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_2035753157
+[2025.03.17-17.18.50:236][173]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D105602_2035753157
+[2025.03.17-17.18.53:307][517]Cmd: TRANSACTION UNDO
+[2025.03.17-17.18.53:307][517]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.20.03:289][476]Cmd: EDIT COPY
+[2025.03.17-17.20.03:480][492]Cmd: EDIT PASTE
+[2025.03.17-17.20.18:806][231]Cmd: EDIT COPY
+[2025.03.17-17.20.18:989][253]Cmd: EDIT PASTE
+[2025.03.17-17.20.25:224][985]Cmd: TRANSACTION UNDO
+[2025.03.17-17.20.25:224][985]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.20.27:234][167]Cmd: TRANSACTION UNDO
+[2025.03.17-17.20.27:234][167]LogEditorTransaction: Undo Set Rotation
+[2025.03.17-17.20.37:348][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4690.836426
+[2025.03.17-17.20.37:499][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-17.20.37:499][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4690.979492, Update Interval: 319.349335
+[2025.03.17-17.20.41:617][813]Cmd: EDIT COPY
+[2025.03.17-17.20.41:934][851]Cmd: EDIT PASTE
+[2025.03.17-17.21.13:270][269]Cmd: EDIT COPY
+[2025.03.17-17.21.13:503][297]Cmd: EDIT PASTE
+[2025.03.17-17.21.24:990][547]Cmd: EDIT COPY
+[2025.03.17-17.21.25:256][579]Cmd: EDIT PASTE
+[2025.03.17-17.21.49:326][267]Cmd: EDIT COPY
+[2025.03.17-17.21.49:559][295]Cmd: EDIT PASTE
+[2025.03.17-17.22.09:402][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-17.22.09:469][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.17-17.22.09:483][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.17-17.22.09:496][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.17-17.22.09:497][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/57/QQHKBK8EDTM3XDZALKJ4O5
+[2025.03.17-17.22.09:498][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/QQHKBK8EDTM3XDZALKJ4O54218CC2841018854D7E0449C9C929F69.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/57/QQHKBK8EDTM3XDZALKJ4O5.uasset'
+[2025.03.17-17.22.09:500][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V1/0S9B83FOYO8232NO9E0GB9
+[2025.03.17-17.22.09:500][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/0S9B83FOYO8232NO9E0GB9391A19BC4E2516E2CEA66F87F2376B29.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/V1/0S9B83FOYO8232NO9E0GB9.uasset'
+[2025.03.17-17.22.09:502][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Y/KQPQ8RDJO2JOBQ3NKTR48X
+[2025.03.17-17.22.09:502][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/KQPQ8RDJO2JOBQ3NKTR48X8C0CB669454340E82E0350B0718AC074.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0Y/KQPQ8RDJO2JOBQ3NKTR48X.uasset'
+[2025.03.17-17.22.09:503][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KK/SORAQOI563993UR8UYPF8S
+[2025.03.17-17.22.09:503][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SORAQOI563993UR8UYPF8S00E5397A427B44AD7033E2B1527E94E5.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KK/SORAQOI563993UR8UYPF8S.uasset'
+[2025.03.17-17.22.09:505][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Q/0YZIN2R8XPZ3NB1A7L6G4C
+[2025.03.17-17.22.09:505][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/0YZIN2R8XPZ3NB1A7L6G4CDD499CF84109A5698A042D93E5FDEE03.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6Q/0YZIN2R8XPZ3NB1A7L6G4C.uasset'
+[2025.03.17-17.22.09:507][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/U1/X8F72U4F69QTHXQMQM6CLP
+[2025.03.17-17.22.09:507][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/X8F72U4F69QTHXQMQM6CLP7FD223A5482E516452D6A38B3CCEEF9A.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/U1/X8F72U4F69QTHXQMQM6CLP.uasset'
+[2025.03.17-17.22.09:509][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6E/D7FDQ8KAMKO59UKMX2H4QS
+[2025.03.17-17.22.09:509][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/D7FDQ8KAMKO59UKMX2H4QS84CC0897477B1122B37C0CB6DBAA1199.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6E/D7FDQ8KAMKO59UKMX2H4QS.uasset'
+[2025.03.17-17.22.09:510][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IH/XHFQMDMSV5NWDWURIOLZMY
+[2025.03.17-17.22.09:510][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/XHFQMDMSV5NWDWURIOLZMY121009134FFDA6223E9DAA937BBC674A.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IH/XHFQMDMSV5NWDWURIOLZMY.uasset'
+[2025.03.17-17.22.09:512][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HT/7BDDVA3TKEBVT476JBRKWC
+[2025.03.17-17.22.09:512][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/7BDDVA3TKEBVT476JBRKWC168B2DBB4F4830D702ADB7A3EE5B25C5.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HT/7BDDVA3TKEBVT476JBRKWC.uasset'
+[2025.03.17-17.22.09:514][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/94/V2IEANCSQG4TMG8VSEG7IP
+[2025.03.17-17.22.09:514][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/V2IEANCSQG4TMG8VSEG7IP588FADB840C645F358A832814735F5E3.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/94/V2IEANCSQG4TMG8VSEG7IP.uasset'
+[2025.03.17-17.22.09:515][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6B/DN9OSRHJF5LZFY7048WBOP
+[2025.03.17-17.22.09:515][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/DN9OSRHJF5LZFY7048WBOP7FA6155C4983D0E43678AABA9575A549.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6B/DN9OSRHJF5LZFY7048WBOP.uasset'
+[2025.03.17-17.22.09:517][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QG/N6M0MM102PC7FEIQH9VF5Z
+[2025.03.17-17.22.09:517][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/N6M0MM102PC7FEIQH9VF5Z24E7B1554853BEB62B93A1B1239DD744.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QG/N6M0MM102PC7FEIQH9VF5Z.uasset'
+[2025.03.17-17.22.09:519][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/MU/LJLAVF999O75FNQFK08WV8
+[2025.03.17-17.22.09:519][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/LJLAVF999O75FNQFK08WV8527F8BC84E11F54956EB19B49C454C7F.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/MU/LJLAVF999O75FNQFK08WV8.uasset'
+[2025.03.17-17.22.09:520][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EC/JW6HOFD4M7N3LU8E1EAV1P
+[2025.03.17-17.22.09:520][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/JW6HOFD4M7N3LU8E1EAV1P3F4E9193447B0901A45263B488E319FB.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EC/JW6HOFD4M7N3LU8E1EAV1P.uasset'
+[2025.03.17-17.22.09:522][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CW/Q7EYNEIRT4RQAQHTMM2WJN
+[2025.03.17-17.22.09:522][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Q7EYNEIRT4RQAQHTMM2WJN559EA458413A84D76EB80A8BC69BEB98.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CW/Q7EYNEIRT4RQAQHTMM2WJN.uasset'
+[2025.03.17-17.22.09:524][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TA/AM4C6ONBPCJKMAD8J0NV8L
+[2025.03.17-17.22.09:524][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/AM4C6ONBPCJKMAD8J0NV8L9942EE41410B446B78244D86AB0D3F46.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TA/AM4C6ONBPCJKMAD8J0NV8L.uasset'
+[2025.03.17-17.22.09:525][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/EL3WVNOL0JS3RDAEPR2987
+[2025.03.17-17.22.09:525][474]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/EL3WVNOL0JS3RDAEPR2987A56CFCBD4551D8C05CE58CBC3F506270.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/EL3WVNOL0JS3RDAEPR2987.uasset'
+[2025.03.17-17.22.09:532][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.690 ms (total: 1.31 sec)
+[2025.03.17-17.22.09:584][474]LogContentValidation: Display: Starting to validate 17 assets
+[2025.03.17-17.22.09:584][474]LogContentValidation: Enabled validators:
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-17.22.09:584][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-17.22.09:585][474]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.17-17.22.14:973][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-17.22.15:030][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.17-17.22.15:044][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.03.17-17.22.15:056][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.17-17.22.15:068][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.022 ms (total: 1.41 sec)
+[2025.03.17-17.22.16:395][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-17.22.16:400][177]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.17-17.22.16:400][177]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.17-17.22.16:402][177]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.095 ms (total: 60.077 ms)
+[2025.03.17-17.22.16:402][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-17.22.16:439][177]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.17-17.22.16:442][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003532s)
+[2025.03.17-17.22.16:442][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003564s)
+[2025.03.17-17.22.16:454][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.17-17.22.16:455][177]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.17-17.22.16:456][177]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.17-17.22.16:456][177]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-17.22.16:456][177]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-17.22.16:456][177]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.17-17.22.16:457][177]LogWorldPartition: Display: WorldPartition initialize took 1.215 ms (total: 219.350 ms)
+[2025.03.17-17.22.16:457][177]LogPlayLevel: PIE: World Init took: (0.002815s)
+[2025.03.17-17.22.16:458][177]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-17.22.16:458][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-17.22.16:458][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-17.22.16:458][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-17.22.16:458][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-17.22.16:458][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-17.22.16:462][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-17.22.16:484][177]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.17-17.22.16:485][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-17.22.16:485][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-17.22.16:485][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-17.22.16:486][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.03.17-17.22.16:486][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.03.17-17.22.16:487][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.03.17-17.22.16:487][177]LogInit: FAudioDevice initialized with ID 29.
+[2025.03.17-17.22.16:487][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.03.17-17.22.16:487][177]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonMap'.
+[2025.03.17-17.22.16:487][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.17-17.22.16:489][177]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.17-17.22.16:491][177]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.17-17.22.16
+[2025.03.17-17.22.16:492][177]LogWorld: Bringing up level for play took: 0.001902
+[2025.03.17-17.22.16:493][177]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.03.17-17.22.16:498][177]PIE: Server logged in
+[2025.03.17-17.22.16:499][177]PIE: Play in editor total start time 0.099 seconds.
+[2025.03.17-17.22.28:199][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-17.22.28:199][566]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.17-17.22.28:199][566]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-17.22.28:200][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-17.22.28:200][566]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.17-17.22.28:203][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-17.22.28:206][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-17.22.28:219][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-17.22.28:219][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.17-17.22.28:219][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.17-17.22.28:221][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.17-17.22.28:227][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.17-17.22.28:278][568]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.03.17-17.22.54:014][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.17-17.22.54:015][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.013
+[2025.03.17-17.22.54:015][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828] ([1] browsable assets)...
+[2025.03.17-17.22.54:016][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828]
+[2025.03.17-17.22.54:018][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828_Auto6
+[2025.03.17-17.22.54:018][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_3D42D828_Auto6B4FF270E4FB91F7C346B82B2A969101C.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_3D42D828_Auto6.uasset'
+[2025.03.17-17.22.54:019][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106] ([1] browsable assets)...
+[2025.03.17-17.22.54:019][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106]
+[2025.03.17-17.22.54:020][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106_Auto6
+[2025.03.17-17.22.54:020][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_DF178106_Auto6C4A752ED40296B08EFDE77B6D68062C0.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_DF178106_Auto6.uasset'
+[2025.03.17-17.22.54:021][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3] ([1] browsable assets)...
+[2025.03.17-17.22.54:021][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3]
+[2025.03.17-17.22.54:023][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3_Auto6
+[2025.03.17-17.22.54:023][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_10AA3EF3_Auto6442FB8444263BD8E1A73D9BE25F97F0D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_10AA3EF3_Auto6.uasset'
+[2025.03.17-17.22.54:023][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67] ([1] browsable assets)...
+[2025.03.17-17.22.54:023][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67]
+[2025.03.17-17.22.54:025][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67_Auto6
+[2025.03.17-17.22.54:025][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_9C75FA67_Auto67B3CF85D41D2782056F5D79D2C7EAF99.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9C75FA67_Auto6.uasset'
+[2025.03.17-17.22.54:026][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32] ([1] browsable assets)...
+[2025.03.17-17.22.54:026][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32]
+[2025.03.17-17.22.54:028][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32_Auto6
+[2025.03.17-17.22.54:028][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_7490FA32_Auto6BE1D530C4F0BFEBB0DC63398495752B1.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7490FA32_Auto6.uasset'
+[2025.03.17-17.22.54:029][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF] ([1] browsable assets)...
+[2025.03.17-17.22.54:029][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF]
+[2025.03.17-17.22.54:031][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF_Auto6
+[2025.03.17-17.22.54:031][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_152838CF_Auto61AA5D63B4A3A6C8FD9E9AAA8BC5F986D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_152838CF_Auto6.uasset'
+[2025.03.17-17.22.54:031][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A] ([1] browsable assets)...
+[2025.03.17-17.22.54:031][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A]
+[2025.03.17-17.22.54:033][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto6
+[2025.03.17-17.22.54:033][837]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_7426C46A_Auto64E0D385648DC2F35FE97B4A877841E83.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_7426C46A_Auto6.uasset'
+[2025.03.17-17.22.54:034][837]LogFileHelpers: Auto-saving content packages took 0.018
