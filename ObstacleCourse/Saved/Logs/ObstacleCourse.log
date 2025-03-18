@@ -4955,3 +4955,610 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.18-16.21.40:107][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.03.18-16.21.40:111][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2025.03.18-16.21.40:163][227]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.03.18-16.23.50:096][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7698.697754
+[2025.03.18-16.23.51:096][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.18-16.23.51:096][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7699.364258, Update Interval: 308.705109
+[2025.03.18-16.24.16:803][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-16.24.16:888][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.18-16.24.16:909][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.18-16.24.16:930][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.18-16.24.16:933][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2025.03.18-16.24.16:933][412]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SWSI13675DVYIZ0N4NF7Y31524176F44E3223C7130B98C4F947C5B.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2025.03.18-16.24.16:936][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7T/T3Y764T7NHSZ9Y4R3QKM8T
+[2025.03.18-16.24.16:936][412]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/T3Y764T7NHSZ9Y4R3QKM8TA2F09D0F4812A652C15DF7AA73E66EA8.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7T/T3Y764T7NHSZ9Y4R3QKM8T.uasset'
+[2025.03.18-16.24.16:951][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.683 ms (total: 1.04 sec)
+[2025.03.18-16.24.17:012][412]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.18-16.24.17:012][412]LogContentValidation: Enabled validators:
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.18-16.24.17:012][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.18-16.24.17:012][412]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.18-16.24.30:066][918]Cmd: DELETE
+[2025.03.18-16.24.30:066][918]Cmd: ACTOR DELETE
+[2025.03.18-16.24.30:069][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.18-16.24.30:093][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.18-16.24.30:097][918]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.03.18-16.24.32:759][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.32:760][213]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.32:761][213]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_1
+[2025.03.18-16.24.32:763][213]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_1
+[2025.03.18-16.24.33:708][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.18-16.24.33:712][310]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.18-16.24.33:718][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.33:718][310]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.33:722][310]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1427375923
+[2025.03.18-16.24.33:723][310]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1427375923
+[2025.03.18-16.24.55:797][817]Cmd: DELETE
+[2025.03.18-16.24.55:797][817]Cmd: ACTOR DELETE
+[2025.03.18-16.24.55:799][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.18-16.24.55:824][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.18-16.24.55:829][817]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.03.18-16.24.58:043][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.58:044][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.58:045][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_2
+[2025.03.18-16.24.58:047][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_2
+[2025.03.18-16.24.58:835][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.18-16.24.58:839][126]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.18-16.24.58:845][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.58:845][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.24.58:848][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1452502924
+[2025.03.18-16.24.58:850][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1452502924
+[2025.03.18-16.25.10:018][370]Cmd: DELETE
+[2025.03.18-16.25.10:018][370]Cmd: ACTOR DELETE
+[2025.03.18-16.25.10:020][370]LogEditorActor: Deleted Actor: JugglingBalls_BP_C
+[2025.03.18-16.25.10:045][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.18-16.25.10:050][370]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.03.18-16.25.12:483][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.25.12:489][659]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.25.12:489][659]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.25.12:492][659]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.316 ms (total: 119.037 ms)
+[2025.03.18-16.25.12:492][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.25.12:492][659]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.25.12:498][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005574s)
+[2025.03.18-16.25.12:498][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005604s)
+[2025.03.18-16.25.12:518][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.18-16.25.12:521][659]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.25.12:522][659]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.25.12:522][659]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.25.12:522][659]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.25.12:522][659]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.25.12:524][659]LogWorldPartition: Display: WorldPartition initialize took 1.909 ms (total: 182.607 ms)
+[2025.03.18-16.25.12:524][659]LogPlayLevel: PIE: World Init took: (0.003442s)
+[2025.03.18-16.25.12:525][659]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.25.12:525][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.25.12:525][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.25.12:525][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.25.12:525][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.25.12:525][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.25.12:527][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.25.12:550][659]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.25.12:550][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.25.12:550][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.25.12:550][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.25.12:551][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.03.18-16.25.12:551][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.03.18-16.25.12:553][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.03.18-16.25.12:553][659]LogInit: FAudioDevice initialized with ID 40.
+[2025.03.18-16.25.12:553][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.03.18-16.25.12:553][659]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.25.12:553][659]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.18-16.25.12:555][659]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.25.12:559][659]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.25.12
+[2025.03.18-16.25.12:559][659]LogWorld: Bringing up level for play took: 0.003184
+[2025.03.18-16.25.12:561][659]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.03.18-16.25.12:565][659]PIE: Server logged in
+[2025.03.18-16.25.12:566][659]PIE: Play in editor total start time 0.078 seconds.
+[2025.03.18-16.25.35:320][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.25.35:320][370]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.25.35:320][370]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.25.35:321][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.25.35:321][370]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.25.35:324][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.25.35:330][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.25.35:353][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.25.35:353][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.18-16.25.35:353][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.18-16.25.35:355][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.18-16.25.35:362][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.18-16.25.35:391][371]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.03.18-16.25.44:673][406]Cmd: DELETE
+[2025.03.18-16.25.44:673][406]Cmd: ACTOR DELETE
+[2025.03.18-16.25.44:675][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.18-16.25.44:699][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.18-16.25.44:702][406]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.03.18-16.25.46:995][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.25.46:995][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.25.46:997][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_3
+[2025.03.18-16.25.46:998][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_3
+[2025.03.18-16.25.47:839][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.18-16.25.47:843][732]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.18-16.25.47:848][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.25.47:848][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.25.47:851][732]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1501505925
+[2025.03.18-16.25.47:852][732]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1501505925
+[2025.03.18-16.26.13:410][363]Cmd: DELETE
+[2025.03.18-16.26.13:410][363]Cmd: ACTOR DELETE
+[2025.03.18-16.26.13:412][363]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.18-16.26.13:439][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.18-16.26.13:445][363]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.03.18-16.26.15:854][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.15:854][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.15:855][629]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_4
+[2025.03.18-16.26.15:856][629]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_4
+[2025.03.18-16.26.16:943][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.18-16.26.16:947][732]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.18-16.26.16:953][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.16:953][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.16:956][732]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1530610926
+[2025.03.18-16.26.16:958][732]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1530610926
+[2025.03.18-16.26.27:796][942]Cmd: DELETE
+[2025.03.18-16.26.27:796][942]Cmd: ACTOR DELETE
+[2025.03.18-16.26.27:799][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.18-16.26.27:824][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.18-16.26.27:830][942]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.03.18-16.26.30:402][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.30:402][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.30:403][231]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_5
+[2025.03.18-16.26.30:405][231]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_5
+[2025.03.18-16.26.31:627][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.18-16.26.31:631][344]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.03.18-16.26.31:638][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.31:638][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP_C
+[2025.03.18-16.26.31:641][344]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1545295927
+[2025.03.18-16.26.31:643][344]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP as actor: JugglingBalls_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.JugglingBalls_BP_C_UAID_6C6A77E26A5D5E5602_1545295927
+[2025.03.18-16.26.57:107][200]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.26.58:479][362]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.02:651][812]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.04:422][ 22]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.05:866][193]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.06:821][305]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.08:724][531]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.12:136][864]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.13:215][991]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.17:324][417]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.19:100][628]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.18-16.27.21:606][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.27.21:612][865]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.27.21:612][865]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.27.21:615][865]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.438 ms (total: 122.476 ms)
+[2025.03.18-16.27.21:615][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.27.21:639][865]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.27.21:644][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005576s)
+[2025.03.18-16.27.21:644][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005608s)
+[2025.03.18-16.27.21:667][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.18-16.27.21:672][865]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.27.21:673][865]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.27.21:673][865]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.27.21:674][865]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.27.21:674][865]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.27.21:675][865]LogWorldPartition: Display: WorldPartition initialize took 1.990 ms (total: 184.597 ms)
+[2025.03.18-16.27.21:676][865]LogPlayLevel: PIE: World Init took: (0.003457s)
+[2025.03.18-16.27.21:676][865]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.27.21:676][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.27.21:676][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.27.21:676][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.27.21:676][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.27.21:676][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.27.21:679][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.27.21:700][865]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.27.21:700][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.27.21:700][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.27.21:700][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.27.21:701][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.03.18-16.27.21:701][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.03.18-16.27.21:703][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.03.18-16.27.21:703][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.03.18-16.27.21:703][865]LogInit: FAudioDevice initialized with ID 41.
+[2025.03.18-16.27.21:703][865]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.27.21:703][865]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.18-16.27.21:705][865]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.27.21:709][865]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.27.21
+[2025.03.18-16.27.21:709][865]LogWorld: Bringing up level for play took: 0.003227
+[2025.03.18-16.27.21:710][865]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.03.18-16.27.21:715][865]PIE: Server logged in
+[2025.03.18-16.27.21:716][865]PIE: Play in editor total start time 0.104 seconds.
+[2025.03.18-16.28.19:480][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.28.19:480][780]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.28.19:480][780]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.28.19:481][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.28.19:482][780]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.28.19:485][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.28.19:490][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.28.19:514][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-16.28.19:514][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.18-16.28.19:514][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.18-16.28.19:516][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.18-16.28.19:520][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.28.19:523][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.18-16.28.19:573][781]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.03.18-16.29.27:218][400]Cmd: MODE GRID=0
+[2025.03.18-16.29.34:728][213]Cmd: EDIT COPY
+[2025.03.18-16.29.34:970][236]Cmd: EDIT PASTE
+[2025.03.18-16.29.45:768][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8054.374023
+[2025.03.18-16.29.45:924][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.18-16.29.45:924][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8054.521484, Update Interval: 349.950867
+[2025.03.18-16.29.46:709][557]Cmd: EDIT COPY
+[2025.03.18-16.29.46:954][586]Cmd: EDIT PASTE
+[2025.03.18-16.29.55:389][533]Cmd: MODE GRID=1
+[2025.03.18-16.30.01:611][214]Cmd: EDIT COPY
+[2025.03.18-16.30.01:875][244]Cmd: EDIT PASTE
+[2025.03.18-16.30.24:650][619]Cmd: MODE GRID=0
+[2025.03.18-16.30.46:595][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.18-16.30.46:595][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.18-16.30.46:598][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D5E5602_1800252931
+[2025.03.18-16.30.46:598][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D5E5602_1800252931
+[2025.03.18-16.30.50:616][216]Cmd: TRANSACTION UNDO
+[2025.03.18-16.30.50:616][216]LogEditorTransaction: Undo Set Rotation
+[2025.03.18-16.31.34:351][164]Cmd: MODE GRID=1
+[2025.03.18-16.31.44:276][245]Cmd: TRANSACTION UNDO
+[2025.03.18-16.31.44:276][245]LogEditorTransaction: Undo Set Scale
+[2025.03.18-16.31.54:755][432]Cmd: EDIT COPY
+[2025.03.18-16.31.54:926][452]Cmd: EDIT PASTE
+[2025.03.18-16.32.27:273][  5]Cmd: EDIT COPY
+[2025.03.18-16.32.27:517][ 27]Cmd: EDIT PASTE
+[2025.03.18-16.32.56:752][347]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.32.56:758][347]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.32.56:758][347]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.32.56:761][347]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.865 ms (total: 126.341 ms)
+[2025.03.18-16.32.56:762][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.32.56:792][347]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.32.56:798][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005909s)
+[2025.03.18-16.32.56:798][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005942s)
+[2025.03.18-16.32.56:837][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.18-16.32.56:841][347]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.32.56:842][347]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.32.56:842][347]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.32.56:842][347]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.32.56:842][347]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.32.56:844][347]LogWorldPartition: Display: WorldPartition initialize took 2.126 ms (total: 186.724 ms)
+[2025.03.18-16.32.56:845][347]LogPlayLevel: PIE: World Init took: (0.003794s)
+[2025.03.18-16.32.56:845][347]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.32.56:845][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.32.56:845][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.32.56:845][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.32.56:845][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.32.56:845][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.32.56:848][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.32.56:870][347]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.32.56:870][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.32.56:870][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.32.56:870][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.32.56:871][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.03.18-16.32.56:871][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.03.18-16.32.56:872][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.03.18-16.32.56:872][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.03.18-16.32.56:872][347]LogInit: FAudioDevice initialized with ID 42.
+[2025.03.18-16.32.56:872][347]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.32.56:872][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.18-16.32.56:875][347]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.32.56:879][347]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.32.56
+[2025.03.18-16.32.56:879][347]LogWorld: Bringing up level for play took: 0.003360
+[2025.03.18-16.32.56:880][347]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.03.18-16.32.56:885][347]PIE: Server logged in
+[2025.03.18-16.32.56:886][347]PIE: Play in editor total start time 0.129 seconds.
+[2025.03.18-16.33.05:663][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.33.05:663][385]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.33.05:663][385]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.33.05:664][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.33.05:664][385]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.33.05:668][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.33.05:673][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.33.05:696][385]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.18-16.33.05:696][385]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.18-16.33.05:697][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.18-16.33.05:699][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.18-16.33.05:703][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.33.05:706][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.18-16.33.05:775][386]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.03.18-16.33.22:153][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.33.22:158][312]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.33.22:158][312]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.33.22:162][312]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.928 ms (total: 130.270 ms)
+[2025.03.18-16.33.22:162][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.33.22:202][312]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.33.22:208][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005403s)
+[2025.03.18-16.33.22:208][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005432s)
+[2025.03.18-16.33.22:230][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.18-16.33.22:232][312]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.33.22:233][312]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.33.22:233][312]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.33.22:233][312]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.33.22:233][312]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.33.22:235][312]LogWorldPartition: Display: WorldPartition initialize took 2.042 ms (total: 188.766 ms)
+[2025.03.18-16.33.22:236][312]LogPlayLevel: PIE: World Init took: (0.003600s)
+[2025.03.18-16.33.22:236][312]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.33.22:236][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.33.22:236][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.33.22:236][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.33.22:236][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.33.22:236][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.33.22:239][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.33.22:259][312]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.33.22:259][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.33.22:259][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.33.22:259][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.33.22:260][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.03.18-16.33.22:260][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.03.18-16.33.22:262][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.03.18-16.33.22:262][312]LogInit: FAudioDevice initialized with ID 43.
+[2025.03.18-16.33.22:262][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.03.18-16.33.22:262][312]LogAudio: Display: Audio Device (ID: 43) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.33.22:262][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.18-16.33.22:264][312]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.33.22:268][312]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.33.22
+[2025.03.18-16.33.22:268][312]LogWorld: Bringing up level for play took: 0.003435
+[2025.03.18-16.33.22:270][312]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.03.18-16.33.22:275][312]PIE: Server logged in
+[2025.03.18-16.33.22:276][312]PIE: Play in editor total start time 0.117 seconds.
+[2025.03.18-16.33.30:703][310]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.18-16.33.31:734][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.33.31:734][431]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.33.31:734][431]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.33.31:735][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.33.31:735][431]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.33.31:738][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.33.31:744][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.33.31:768][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.33.31:768][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.18-16.33.31:769][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.18-16.33.31:770][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.18-16.33.31:778][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.18-16.33.31:846][432]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.03.18-16.33.33:170][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.33.33:175][584]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.33.33:175][584]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.33.33:179][584]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.756 ms (total: 134.027 ms)
+[2025.03.18-16.33.33:179][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.33.33:203][584]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.33.33:208][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005752s)
+[2025.03.18-16.33.33:208][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005785s)
+[2025.03.18-16.33.33:229][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.18-16.33.33:231][584]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.33.33:233][584]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.33.33:233][584]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.33.33:233][584]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.33.33:233][584]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.33.33:235][584]LogWorldPartition: Display: WorldPartition initialize took 2.081 ms (total: 190.848 ms)
+[2025.03.18-16.33.33:235][584]LogPlayLevel: PIE: World Init took: (0.003557s)
+[2025.03.18-16.33.33:236][584]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.33.33:236][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.33.33:236][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.33.33:236][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.33.33:236][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.33.33:236][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.33.33:238][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.33.33:259][584]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.33.33:259][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.33.33:259][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.33.33:259][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.33.33:260][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.03.18-16.33.33:260][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.03.18-16.33.33:261][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.03.18-16.33.33:261][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.03.18-16.33.33:261][584]LogInit: FAudioDevice initialized with ID 44.
+[2025.03.18-16.33.33:262][584]LogAudio: Display: Audio Device (ID: 44) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.33.33:262][584]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.18-16.33.33:264][584]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.33.33:267][584]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.33.33
+[2025.03.18-16.33.33:268][584]LogWorld: Bringing up level for play took: 0.003356
+[2025.03.18-16.33.33:269][584]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.03.18-16.33.33:274][584]PIE: Server logged in
+[2025.03.18-16.33.33:275][584]PIE: Play in editor total start time 0.099 seconds.
+[2025.03.18-16.34.30:075][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.34.30:075][382]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.34.30:075][382]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.34.30:076][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.34.30:076][382]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.34.30:079][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.34.30:085][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.34.30:108][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.34.30:108][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.18-16.34.30:109][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.18-16.34.30:111][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.18-16.34.30:118][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.18-16.34.30:184][383]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.03.18-16.34.55:086][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.18-16.34.55:090][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/UYXO5U4EICE4VKNCAYGH75_Auto9
+[2025.03.18-16.34.55:090][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/UYXO5U4EICE4VKNCAYGH75_Auto9730AFD374742D7868C1A5B8F3C4BE15A.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/UYXO5U4EICE4VKNCAYGH75_Auto9.uasset'
+[2025.03.18-16.34.55:092][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto9
+[2025.03.18-16.34.55:092][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SWSI13675DVYIZ0N4NF7Y3_Auto9DF5025BA4209D7225014C0AE6B08D6A6.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3_Auto9.uasset'
+[2025.03.18-16.34.55:093][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/HEC06HQXD04KCSGN408CM7_Auto9
+[2025.03.18-16.34.55:093][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/HEC06HQXD04KCSGN408CM7_Auto91BE4D0C74CCF73518953EFA2DBCCC987.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/HEC06HQXD04KCSGN408CM7_Auto9.uasset'
+[2025.03.18-16.34.55:095][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CV/JAY7E4QJPY9G7NNYI01TR1_Auto9
+[2025.03.18-16.34.55:095][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/JAY7E4QJPY9G7NNYI01TR1_Auto98D59AEB74F3BFABD8C98F59B2FC65CBF.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CV/JAY7E4QJPY9G7NNYI01TR1_Auto9.uasset'
+[2025.03.18-16.34.55:097][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GS/CAQTKSTAKZJ9W2IS9GGQR5_Auto9
+[2025.03.18-16.34.55:097][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/CAQTKSTAKZJ9W2IS9GGQR5_Auto9F11E8BC34D911C27AF14018B3A8014D5.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GS/CAQTKSTAKZJ9W2IS9GGQR5_Auto9.uasset'
+[2025.03.18-16.34.55:099][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K8/SIGDVBRAGB9CJ95PHXT81A_Auto9
+[2025.03.18-16.34.55:099][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SIGDVBRAGB9CJ95PHXT81A_Auto93AB38ABD4109D54B5143D1ACD2155F39.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K8/SIGDVBRAGB9CJ95PHXT81A_Auto9.uasset'
+[2025.03.18-16.34.55:100][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/J6CDK3GGR1FOWMUGIRIZJT_Auto9
+[2025.03.18-16.34.55:100][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/J6CDK3GGR1FOWMUGIRIZJT_Auto9D73313074A85FBB03815C189F9B5CE86.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/J6CDK3GGR1FOWMUGIRIZJT_Auto9.uasset'
+[2025.03.18-16.34.55:102][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NN/30G91DIGMCGQJKDD3H1AYL_Auto9
+[2025.03.18-16.34.55:102][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/30G91DIGMCGQJKDD3H1AYL_Auto923AF8EA9457265E27DBDB794AC3C6B31.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NN/30G91DIGMCGQJKDD3H1AYL_Auto9.uasset'
+[2025.03.18-16.34.55:104][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6E/2TUZ6I928F6QLNU2P0G34I_Auto9
+[2025.03.18-16.34.55:104][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/2TUZ6I928F6QLNU2P0G34I_Auto9BE7BF1BB4D7045D72B589F87DBFB3029.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6E/2TUZ6I928F6QLNU2P0G34I_Auto9.uasset'
+[2025.03.18-16.34.55:105][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DE/8GFD7WUIOIOJHQ44G0A95G_Auto9
+[2025.03.18-16.34.55:105][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/8GFD7WUIOIOJHQ44G0A95G_Auto92A3BE146442FA0B96E2A0D872665629D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DE/8GFD7WUIOIOJHQ44G0A95G_Auto9.uasset'
+[2025.03.18-16.34.55:107][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/55/SBUKW6JQRNLSWHGL881CWS_Auto9
+[2025.03.18-16.34.55:107][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SBUKW6JQRNLSWHGL881CWS_Auto9F14125824E09B0FA1D4D37BA270D2086.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/55/SBUKW6JQRNLSWHGL881CWS_Auto9.uasset'
+[2025.03.18-16.34.55:108][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7S/J23X8AH1X9EW2DT0WDKZA1_Auto9
+[2025.03.18-16.34.55:108][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/J23X8AH1X9EW2DT0WDKZA1_Auto984564468438BB97F8DD9998545E46365.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7S/J23X8AH1X9EW2DT0WDKZA1_Auto9.uasset'
+[2025.03.18-16.34.55:110][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IH/UQ916S9N8JSA4VSMI2CR64_Auto9
+[2025.03.18-16.34.55:110][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/UQ916S9N8JSA4VSMI2CR64_Auto9FD54494447CF510BC619109FDD5E3BC1.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IH/UQ916S9N8JSA4VSMI2CR64_Auto9.uasset'
+[2025.03.18-16.34.55:112][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/NBL9OO5W2KD1FYBSGB6OYD_Auto9
+[2025.03.18-16.34.55:112][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/NBL9OO5W2KD1FYBSGB6OYD_Auto9D0D5D60443A4BA16D259338428BBD03F.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/NBL9OO5W2KD1FYBSGB6OYD_Auto9.uasset'
+[2025.03.18-16.34.55:112][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2025.03.18-16.34.55:112][299]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2025.03.18-16.34.55:113][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.03.18-16.34.55:155][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.03.18-16.34.55:155][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.03.18-16.34.55:165][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2025.03.18-16.34.55:165][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/BP_ThirdPersonCharacter_Auto922A25E0F45F16438EBD4CA9CEE74C9EB.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2025.03.18-16.34.55:166][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9B95D85A] ([1] browsable assets)...
+[2025.03.18-16.34.55:166][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9B95D85A]
+[2025.03.18-16.34.55:167][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9B95D85A_Auto9
+[2025.03.18-16.34.55:168][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Stairs_9B95D85A_Auto9BF3B7ED341006BD14065B8979CA29DF7.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/zakwh/Stairs_9B95D85A_Auto9.uasset'
+[2025.03.18-16.34.55:168][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/JugglingBalls_BP] ([2] browsable assets)...
+[2025.03.18-16.34.55:175][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/JugglingBalls_BP.JugglingBalls_BP]
+[2025.03.18-16.34.55:175][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/JugglingBalls_BP]
+[2025.03.18-16.34.55:180][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/JugglingBalls_BP_Auto9
+[2025.03.18-16.34.55:180][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBalls_BP_Auto9B5572B2F493CEFA5AAB30D88C375614E.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Blueprints/JugglingBalls_BP_Auto9.uasset'
+[2025.03.18-16.34.55:181][299]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/JugglingBalls_Widget] ([2] browsable assets)...
+[2025.03.18-16.34.55:182][299]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/JugglingBalls_Widget.JugglingBalls_Widget]
+[2025.03.18-16.34.55:183][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/JugglingBalls_Widget]
+[2025.03.18-16.34.55:187][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/JugglingBalls_Widget_Auto9
+[2025.03.18-16.34.55:187][299]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBalls_Widget_Auto9A3F211F947C7800CD501C49CF7E2A264.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Blueprints/JugglingBalls_Widget_Auto9.uasset'
+[2025.03.18-16.34.55:187][299]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.03.18-16.36.14:366][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8443.232422
+[2025.03.18-16.36.14:516][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.18-16.36.14:516][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8443.371094, Update Interval: 356.729645
+[2025.03.18-16.36.34:284][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.18-16.36.34:284][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.03.18-16.36.34:286][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D5F5602_1074200110
+[2025.03.18-16.36.34:287][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_6C6A77E26A5D5F5602_1074200110
+[2025.03.18-16.37.14:283][661]Cmd: MODE GRID=0
+[2025.03.18-16.38.02:564][ 76]Cmd: TRANSACTION UNDO
+[2025.03.18-16.38.02:564][ 76]LogEditorTransaction: Undo Pilot Actor
+[2025.03.18-16.38.44:202][638]Cmd: MODE GRID=1
+[2025.03.18-16.39.01:494][602]Cmd: MODE GRID=0
+[2025.03.18-16.39.22:931][  9]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.18-16.39.22:936][  9]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.18-16.39.22:936][  9]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.18-16.39.22:940][  9]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.188 ms (total: 138.215 ms)
+[2025.03.18-16.39.22:940][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.18-16.39.22:965][  9]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.39.22:971][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005824s)
+[2025.03.18-16.39.22:971][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005857s)
+[2025.03.18-16.39.22:996][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.18-16.39.23:001][  9]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.18-16.39.23:002][  9]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.18-16.39.23:002][  9]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.18-16.39.23:002][  9]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.18-16.39.23:002][  9]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.18-16.39.23:004][  9]LogWorldPartition: Display: WorldPartition initialize took 2.140 ms (total: 192.988 ms)
+[2025.03.18-16.39.23:004][  9]LogPlayLevel: PIE: World Init took: (0.003798s)
+[2025.03.18-16.39.23:005][  9]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.18-16.39.23:005][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.18-16.39.23:005][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.18-16.39.23:005][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.18-16.39.23:005][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.18-16.39.23:005][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.18-16.39.23:008][  9]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.18-16.39.23:029][  9]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.03.18-16.39.23:029][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.18-16.39.23:029][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.18-16.39.23:029][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.18-16.39.23:030][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.03.18-16.39.23:030][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.03.18-16.39.23:032][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.03.18-16.39.23:032][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.03.18-16.39.23:032][  9]LogInit: FAudioDevice initialized with ID 45.
+[2025.03.18-16.39.23:032][  9]LogAudio: Display: Audio Device (ID: 45) registered with world 'ThirdPersonMap'.
+[2025.03.18-16.39.23:032][  9]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.18-16.39.23:034][  9]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.18-16.39.23:038][  9]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.18-16.39.23
+[2025.03.18-16.39.23:038][  9]LogWorld: Bringing up level for play took: 0.003444
+[2025.03.18-16.39.23:040][  9]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.18-16.39.23:045][  9]PIE: Server logged in
+[2025.03.18-16.39.23:046][  9]PIE: Play in editor total start time 0.11 seconds.
+[2025.03.18-16.39.26:976][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.39.26:976][466]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.18-16.39.26:976][466]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.18-16.39.26:977][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.39.26:977][466]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.03.18-16.39.26:981][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.18-16.39.26:986][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.18-16.39.27:010][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.18-16.39.27:010][466]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.18-16.39.27:010][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.18-16.39.27:012][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.18-16.39.27:020][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.18-16.39.27:090][467]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.18-16.39.27:894][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.18-16.39.27:976][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.18-16.39.27:999][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.18-16.39.28:022][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.18-16.39.28:026][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RC/KA2IKIDIE8PX9YZ4ETHBRH
+[2025.03.18-16.39.28:026][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/KA2IKIDIE8PX9YZ4ETHBRH76F35FA54619D28E761A4BA67470A022.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RC/KA2IKIDIE8PX9YZ4ETHBRH.uasset'
+[2025.03.18-16.39.28:028][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/UYXO5U4EICE4VKNCAYGH75
+[2025.03.18-16.39.28:029][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/UYXO5U4EICE4VKNCAYGH75045EA96541D99D588B838ABCA8462B0D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/UYXO5U4EICE4VKNCAYGH75.uasset'
+[2025.03.18-16.39.28:031][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3W/DBJAWAXOPXZU2DOBK6PAO7
+[2025.03.18-16.39.28:031][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/DBJAWAXOPXZU2DOBK6PAO7CFAC7C84470866EFC3EBB9A8EEFEB2E7.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3W/DBJAWAXOPXZU2DOBK6PAO7.uasset'
+[2025.03.18-16.39.28:033][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4K/748T9LQOBW75E02PCUM6I2
+[2025.03.18-16.39.28:033][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/748T9LQOBW75E02PCUM6I24B65D49B422A1FEAC62D748FBCF53FC4.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4K/748T9LQOBW75E02PCUM6I2.uasset'
+[2025.03.18-16.39.28:035][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2025.03.18-16.39.28:035][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SWSI13675DVYIZ0N4NF7Y348BF5FBB4A8B82F4C8F2B2A16B2B6B5D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2025.03.18-16.39.28:037][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/HEC06HQXD04KCSGN408CM7
+[2025.03.18-16.39.28:037][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/HEC06HQXD04KCSGN408CM7720E981E4BAD9C90AAF803B034DD3B67.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/HEC06HQXD04KCSGN408CM7.uasset'
+[2025.03.18-16.39.28:039][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CV/JAY7E4QJPY9G7NNYI01TR1
+[2025.03.18-16.39.28:039][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/JAY7E4QJPY9G7NNYI01TR1047D2CEE4E19CA55F42A82B26FE43F63.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CV/JAY7E4QJPY9G7NNYI01TR1.uasset'
+[2025.03.18-16.39.28:042][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GS/CAQTKSTAKZJ9W2IS9GGQR5
+[2025.03.18-16.39.28:042][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/CAQTKSTAKZJ9W2IS9GGQR5112D58844103E28A3B8186BE8E8DA727.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GS/CAQTKSTAKZJ9W2IS9GGQR5.uasset'
+[2025.03.18-16.39.28:044][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K8/SIGDVBRAGB9CJ95PHXT81A
+[2025.03.18-16.39.28:044][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SIGDVBRAGB9CJ95PHXT81A6A0313044251B50EC2A187AACA2BA82B.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K8/SIGDVBRAGB9CJ95PHXT81A.uasset'
+[2025.03.18-16.39.28:046][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/J6CDK3GGR1FOWMUGIRIZJT
+[2025.03.18-16.39.28:046][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/J6CDK3GGR1FOWMUGIRIZJTC47EC6E74FBDA37E4401EEA9DC895E9F.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/R9/J6CDK3GGR1FOWMUGIRIZJT.uasset'
+[2025.03.18-16.39.28:048][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NN/30G91DIGMCGQJKDD3H1AYL
+[2025.03.18-16.39.28:048][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/30G91DIGMCGQJKDD3H1AYL437EFD45469B86F8017331B90A70134A.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NN/30G91DIGMCGQJKDD3H1AYL.uasset'
+[2025.03.18-16.39.28:050][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6E/2TUZ6I928F6QLNU2P0G34I
+[2025.03.18-16.39.28:050][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/2TUZ6I928F6QLNU2P0G34I06A5D45341D29DF5E9049B84CF3DE338.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6E/2TUZ6I928F6QLNU2P0G34I.uasset'
+[2025.03.18-16.39.28:051][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DE/8GFD7WUIOIOJHQ44G0A95G
+[2025.03.18-16.39.28:051][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/8GFD7WUIOIOJHQ44G0A95G61A1C76D416C2684321809B4D3E96854.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DE/8GFD7WUIOIOJHQ44G0A95G.uasset'
+[2025.03.18-16.39.28:054][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/55/SBUKW6JQRNLSWHGL881CWS
+[2025.03.18-16.39.28:054][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SBUKW6JQRNLSWHGL881CWS946875CB4992B45CBC02D0AD19C467F0.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/55/SBUKW6JQRNLSWHGL881CWS.uasset'
+[2025.03.18-16.39.28:056][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7S/J23X8AH1X9EW2DT0WDKZA1
+[2025.03.18-16.39.28:057][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/J23X8AH1X9EW2DT0WDKZA103FDE6CD4DD5B04D585D938A6AE74D6D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7S/J23X8AH1X9EW2DT0WDKZA1.uasset'
+[2025.03.18-16.39.28:058][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IH/UQ916S9N8JSA4VSMI2CR64
+[2025.03.18-16.39.28:058][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/UQ916S9N8JSA4VSMI2CR645F16C7424559ABF4B8F4679484952952.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IH/UQ916S9N8JSA4VSMI2CR64.uasset'
+[2025.03.18-16.39.28:060][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/NBL9OO5W2KD1FYBSGB6OYD
+[2025.03.18-16.39.28:060][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/NBL9OO5W2KD1FYBSGB6OYDCD7B1E2F45E675AD1F4D89A51AD1EEFC.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AJ/NBL9OO5W2KD1FYBSGB6OYD.uasset'
+[2025.03.18-16.39.28:062][556]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B4/N5FAH9UBXLDIAJ1695XWZK
+[2025.03.18-16.39.28:062][556]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/N5FAH9UBXLDIAJ1695XWZK9C19C6B145D2B45680244E88975860E5.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B4/N5FAH9UBXLDIAJ1695XWZK.uasset'
+[2025.03.18-16.39.28:076][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.445 ms (total: 1.22 sec)
+[2025.03.18-16.39.28:134][556]LogContentValidation: Display: Starting to validate 18 assets
+[2025.03.18-16.39.28:134][556]LogContentValidation: Enabled validators:
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.18-16.39.28:134][556]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.18-16.39.28:134][556]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
