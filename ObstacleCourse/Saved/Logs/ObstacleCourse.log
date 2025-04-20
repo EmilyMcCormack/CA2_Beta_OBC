@@ -3460,3 +3460,361 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.20-19.36.56:403][320]LogEditorActor: Deleted 1 Actors (0.023 secs)
 [2025.04.20-19.37.00:769][816]Cmd: EDIT COPY
 [2025.04.20-19.37.01:033][845]Cmd: EDIT PASTE
+[2025.04.20-19.42.08:283][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4988.189453
+[2025.04.20-19.42.09:286][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-19.42.09:286][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4988.855957, Update Interval: 339.006317
+[2025.04.20-19.42.53:676][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.20-19.42.53:686][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8P/Z0JWIBEZEDGZYNVVBPRL90_Auto7
+[2025.04.20-19.42.53:686][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Z0JWIBEZEDGZYNVVBPRL90_Auto74B181C794B8051843D3364B55B842F8E.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8P/Z0JWIBEZEDGZYNVVBPRL90_Auto7.uasset'
+[2025.04.20-19.42.53:691][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/S3/61KJE5M9GD8TWQ360FR8R9_Auto7
+[2025.04.20-19.42.53:691][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/61KJE5M9GD8TWQ360FR8R9_Auto7BA3D8D014DE66A69148CBDA481721B04.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/S3/61KJE5M9GD8TWQ360FR8R9_Auto7.uasset'
+[2025.04.20-19.42.53:698][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/75/SLZET8850NN4C2KRBE7HKD_Auto7
+[2025.04.20-19.42.53:698][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/SLZET8850NN4C2KRBE7HKD_Auto73764CE8445E56223AF40DFA56973AC4B.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/75/SLZET8850NN4C2KRBE7HKD_Auto7.uasset'
+[2025.04.20-19.42.53:703][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AZ/F9R1MVFT2PKHGOW0D65EPJ_Auto7
+[2025.04.20-19.42.53:703][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/F9R1MVFT2PKHGOW0D65EPJ_Auto7EAC1B666422EA88BC56C40A7BBF0E480.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AZ/F9R1MVFT2PKHGOW0D65EPJ_Auto7.uasset'
+[2025.04.20-19.42.53:708][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JD/B3NA5MOGV3Q7RYUB8P1WJX_Auto7
+[2025.04.20-19.42.53:708][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/B3NA5MOGV3Q7RYUB8P1WJX_Auto748C696AC4AAC075031AB90A56EFD2375.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JD/B3NA5MOGV3Q7RYUB8P1WJX_Auto7.uasset'
+[2025.04.20-19.42.53:711][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2025.04.20-19.42.53:711][867]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.04.20-19.42.53:713][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/JugglingBalls] ([1] browsable assets)...
+[2025.04.20-19.42.53:713][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JugglingBalls]
+[2025.04.20-19.42.53:716][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/JugglingBalls_Auto7
+[2025.04.20-19.42.53:716][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBalls_Auto7D1454BF3428DF9B027C9D6913B96A184.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/JugglingBalls_Auto7.uasset'
+[2025.04.20-19.42.53:717][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/JugglingBall] ([1] browsable assets)...
+[2025.04.20-19.42.53:717][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JugglingBall]
+[2025.04.20-19.42.53:724][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/JugglingBall_Auto7
+[2025.04.20-19.42.53:724][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBall_Auto77F861E6F440F260BA4A53A9CEE2B764F.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/JugglingBall_Auto7.uasset'
+[2025.04.20-19.42.53:725][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/PlatformTexture] ([1] browsable assets)...
+[2025.04.20-19.42.53:725][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/PlatformTexture]
+[2025.04.20-19.42.53:730][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/PlatformTexture_Auto7
+[2025.04.20-19.42.53:730][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/PlatformTexture_Auto7CEE561CD4B8915BED76199B56E5C337A.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/PlatformTexture_Auto7.uasset'
+[2025.04.20-19.42.53:731][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Platform] ([1] browsable assets)...
+[2025.04.20-19.42.53:731][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Platform]
+[2025.04.20-19.42.53:737][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Platform_Auto7
+[2025.04.20-19.42.53:737][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Platform_Auto75824BE714069654048BE83BAE51EF72A.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/Platform_Auto7.uasset'
+[2025.04.20-19.42.53:738][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Grime] ([1] browsable assets)...
+[2025.04.20-19.42.53:738][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Grime]
+[2025.04.20-19.42.53:744][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Concrete_Grime_Auto7
+[2025.04.20-19.42.53:744][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/M_Concrete_Grime_Auto7E76CD8564887803C9742ADA15973DF8F.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Grime_Auto7.uasset'
+[2025.04.20-19.42.53:745][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march] ([1] browsable assets)...
+[2025.04.20-19.42.53:745][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march]
+[2025.04.20-19.42.53:756][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march_Auto7
+[2025.04.20-19.42.53:756][867]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/556321__ikerregular123__nightmarD7B786094E11F4037B8640BA0543C05F.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march_Auto7.uasset'
+[2025.04.20-19.42.53:757][867]LogFileHelpers: Auto-saving content packages took 0.045
+[2025.04.20-19.48.29:331][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5369.240234
+[2025.04.20-19.48.30:333][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-19.48.30:333][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5369.909180, Update Interval: 330.559418
+[2025.04.20-19.54.41:701][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5741.613770
+[2025.04.20-19.54.42:697][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-19.54.42:697][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5742.272949, Update Interval: 314.518890
+[2025.04.20-20.00.52:001][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6111.911621
+[2025.04.20-20.00.53:000][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-20.00.53:000][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6112.579102, Update Interval: 317.465118
+[2025.04.20-20.06.20:945][ 46]Cmd: EDIT COPY
+[2025.04.20-20.06.21:113][ 66]Cmd: EDIT PASTE
+[2025.04.20-20.06.29:310][939]Cmd: TRANSACTION UNDO
+[2025.04.20-20.06.29:310][939]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.06.30:554][ 17]Cmd: TRANSACTION UNDO
+[2025.04.20-20.06.30:554][ 17]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.06.30:998][ 59]Cmd: TRANSACTION UNDO
+[2025.04.20-20.06.30:998][ 59]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.06.31:507][112]Cmd: TRANSACTION UNDO
+[2025.04.20-20.06.31:507][112]LogEditorTransaction: Undo Paste
+[2025.04.20-20.06.33:159][297]Cmd: TRANSACTION UNDO
+[2025.04.20-20.06.33:159][297]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.06.39:026][880]Cmd: EDIT COPY
+[2025.04.20-20.06.39:227][904]Cmd: EDIT PASTE
+[2025.04.20-20.06.53:656][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6473.556641
+[2025.04.20-20.06.53:782][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-20.06.53:782][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6473.674316, Update Interval: 356.465942
+[2025.04.20-20.06.57:800][937]Cmd: EDIT COPY
+[2025.04.20-20.06.58:029][963]Cmd: EDIT PASTE
+[2025.04.20-20.07.21:572][507]Cmd: EDIT COPY
+[2025.04.20-20.07.21:756][529]Cmd: EDIT PASTE
+[2025.04.20-20.07.26:600][ 93]Cmd: EDIT COPY
+[2025.04.20-20.07.26:785][115]Cmd: EDIT PASTE
+[2025.04.20-20.07.33:117][807]Cmd: EDIT COPY
+[2025.04.20-20.07.33:318][831]Cmd: EDIT PASTE
+[2025.04.20-20.08.05:384][496]Cmd: DELETE
+[2025.04.20-20.08.05:384][496]Cmd: ACTOR DELETE
+[2025.04.20-20.08.05:387][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.08.05:407][496]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_E89C25DEDC2ACD6002_1570358973 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/F9/Y7TU0B5499UGPUF4OKQWHC.PackageMetaData in its package
+[2025.04.20-20.08.05:408][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.20-20.08.05:412][496]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.04.20-20.08.05:439][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.20-20.08.08:034][762]Cmd: DELETE
+[2025.04.20-20.08.08:034][762]Cmd: ACTOR DELETE
+[2025.04.20-20.08.08:037][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.08.08:053][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.20-20.08.08:056][762]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.04.20-20.08.09:495][907]Cmd: EDIT COPY
+[2025.04.20-20.08.09:798][942]Cmd: EDIT PASTE
+[2025.04.20-20.08.14:390][436]Cmd: EDIT COPY
+[2025.04.20-20.08.14:578][456]Cmd: EDIT PASTE
+[2025.04.20-20.08.20:901][140]Cmd: DELETE
+[2025.04.20-20.08.20:901][140]Cmd: ACTOR DELETE
+[2025.04.20-20.08.20:903][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.08.20:920][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.20-20.08.20:924][140]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.20-20.08.22:632][332]Cmd: EDIT COPY
+[2025.04.20-20.08.22:808][353]Cmd: EDIT PASTE
+[2025.04.20-20.08.35:173][730]Cmd: EDIT COPY
+[2025.04.20-20.08.35:491][758]Cmd: EDIT PASTE
+[2025.04.20-20.08.38:482][100]Cmd: TRANSACTION UNDO
+[2025.04.20-20.08.38:482][100]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.08.59:630][477]Cmd: EDIT COPY
+[2025.04.20-20.08.59:839][502]Cmd: EDIT PASTE
+[2025.04.20-20.09.15:025][132]Cmd: EDIT COPY
+[2025.04.20-20.09.15:257][158]Cmd: EDIT PASTE
+[2025.04.20-20.09.39:542][867]Cmd: EDIT COPY
+[2025.04.20-20.09.39:703][885]Cmd: EDIT PASTE
+[2025.04.20-20.09.43:714][337]Cmd: EDIT COPY
+[2025.04.20-20.09.43:958][365]Cmd: EDIT PASTE
+[2025.04.20-20.09.50:430][ 43]Cmd: DELETE
+[2025.04.20-20.09.50:430][ 43]Cmd: ACTOR DELETE
+[2025.04.20-20.09.50:433][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.09.50:449][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.20-20.09.50:452][ 43]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.04.20-20.09.51:636][173]Cmd: EDIT COPY
+[2025.04.20-20.09.51:814][193]Cmd: EDIT PASTE
+[2025.04.20-20.10.19:075][191]Cmd: DELETE
+[2025.04.20-20.10.19:075][191]Cmd: ACTOR DELETE
+[2025.04.20-20.10.19:078][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.10.19:097][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.20-20.10.19:100][191]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.20-20.10.54:890][ 62]Cmd: EDIT COPY
+[2025.04.20-20.10.55:436][126]Cmd: EDIT PASTE
+[2025.04.20-20.11.07:643][433]Cmd: DELETE
+[2025.04.20-20.11.07:643][433]Cmd: ACTOR DELETE
+[2025.04.20-20.11.07:645][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.11.07:662][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.20-20.11.07:666][433]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.04.20-20.11.18:312][512]Cmd: EDIT COPY
+[2025.04.20-20.11.18:564][541]Cmd: EDIT PASTE
+[2025.04.20-20.11.33:987][183]Cmd: DELETE
+[2025.04.20-20.11.33:987][183]Cmd: ACTOR DELETE
+[2025.04.20-20.11.33:989][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.11.34:006][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.20-20.11.34:010][183]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.20-20.11.38:001][621]Cmd: TRANSACTION UNDO
+[2025.04.20-20.11.38:001][621]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.12.21:459][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.20-20.12.21:466][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8P/Z0JWIBEZEDGZYNVVBPRL90_Auto8
+[2025.04.20-20.12.21:467][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Z0JWIBEZEDGZYNVVBPRL90_Auto8FD636C0A479AD95F2ACE119CF1197452.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8P/Z0JWIBEZEDGZYNVVBPRL90_Auto8.uasset'
+[2025.04.20-20.12.21:472][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/S3/61KJE5M9GD8TWQ360FR8R9_Auto8
+[2025.04.20-20.12.21:472][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/61KJE5M9GD8TWQ360FR8R9_Auto81B0D152B4F0AFC0B2209C7BC2AE096E1.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/S3/61KJE5M9GD8TWQ360FR8R9_Auto8.uasset'
+[2025.04.20-20.12.21:478][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/75/SLZET8850NN4C2KRBE7HKD_Auto8
+[2025.04.20-20.12.21:478][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/SLZET8850NN4C2KRBE7HKD_Auto8C6B6097442039F2CEA7FA5BFC871E881.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/75/SLZET8850NN4C2KRBE7HKD_Auto8.uasset'
+[2025.04.20-20.12.21:485][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AZ/F9R1MVFT2PKHGOW0D65EPJ_Auto8
+[2025.04.20-20.12.21:485][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/F9R1MVFT2PKHGOW0D65EPJ_Auto85811052244BEF76723FC3A93A2DEC1FD.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AZ/F9R1MVFT2PKHGOW0D65EPJ_Auto8.uasset'
+[2025.04.20-20.12.21:490][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JD/B3NA5MOGV3Q7RYUB8P1WJX_Auto8
+[2025.04.20-20.12.21:490][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/B3NA5MOGV3Q7RYUB8P1WJX_Auto8CC37628B450564946557B88B82A3BFF5.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JD/B3NA5MOGV3Q7RYUB8P1WJX_Auto8.uasset'
+[2025.04.20-20.12.21:497][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N9/6KRQDD0DN83HWQ5BBWS1M8_Auto8
+[2025.04.20-20.12.21:497][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/6KRQDD0DN83HWQ5BBWS1M8_Auto8DAC28A04417A251F71203FAD11ECAAD4.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N9/6KRQDD0DN83HWQ5BBWS1M8_Auto8.uasset'
+[2025.04.20-20.12.21:503][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3P/XBJUTPSNVUHB56FIM4T507_Auto8
+[2025.04.20-20.12.21:503][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/XBJUTPSNVUHB56FIM4T507_Auto84630766143671529FFFDE0884610FCD4.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3P/XBJUTPSNVUHB56FIM4T507_Auto8.uasset'
+[2025.04.20-20.12.21:508][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1E/2JSEG7P0Z3OJGL2FK76YZB_Auto8
+[2025.04.20-20.12.21:508][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/2JSEG7P0Z3OJGL2FK76YZB_Auto86C38AD3D4E7270C36EE398901F032699.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1E/2JSEG7P0Z3OJGL2FK76YZB_Auto8.uasset'
+[2025.04.20-20.12.21:514][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3I/SI8K3Z3VRNRQSKK1TYEA25_Auto8
+[2025.04.20-20.12.21:514][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/SI8K3Z3VRNRQSKK1TYEA25_Auto8AD432F0643B6F9BEC25726A2CA8516C0.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3I/SI8K3Z3VRNRQSKK1TYEA25_Auto8.uasset'
+[2025.04.20-20.12.21:519][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UG/QZ0KL87E2HALZYPLTPOMOJ_Auto8
+[2025.04.20-20.12.21:520][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/QZ0KL87E2HALZYPLTPOMOJ_Auto80EDA768C4852881AE18932B1719F771E.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UG/QZ0KL87E2HALZYPLTPOMOJ_Auto8.uasset'
+[2025.04.20-20.12.21:526][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/01/LOF7P8P98G22MCYSLK0F7K_Auto8
+[2025.04.20-20.12.21:526][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/LOF7P8P98G22MCYSLK0F7K_Auto85365E52E42A9996630059DA0894DF421.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/01/LOF7P8P98G22MCYSLK0F7K_Auto8.uasset'
+[2025.04.20-20.12.21:530][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1P/6ULI4CYG33J5UPMHJMYUJQ_Auto8
+[2025.04.20-20.12.21:530][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/6ULI4CYG33J5UPMHJMYUJQ_Auto8AB3F42D9427516B35B48D485FEF28BCF.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1P/6ULI4CYG33J5UPMHJMYUJQ_Auto8.uasset'
+[2025.04.20-20.12.21:538][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JD/HGOALWG2VU9XPMTVP0KLAY_Auto8
+[2025.04.20-20.12.21:538][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/HGOALWG2VU9XPMTVP0KLAY_Auto82BA2B0684DCDBC552490E2B08847C335.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JD/HGOALWG2VU9XPMTVP0KLAY_Auto8.uasset'
+[2025.04.20-20.12.21:544][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EP/UN87KBRI9FYPRSDU4A23SB_Auto8
+[2025.04.20-20.12.21:544][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/UN87KBRI9FYPRSDU4A23SB_Auto84A8ECA7F4BB2507A61B0C2BF6D940269.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EP/UN87KBRI9FYPRSDU4A23SB_Auto8.uasset'
+[2025.04.20-20.12.21:549][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N7/H9350GDWH6FB5MZQNJ2G3Q_Auto8
+[2025.04.20-20.12.21:549][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/H9350GDWH6FB5MZQNJ2G3Q_Auto813E163DB45DEA0BCB56D4F872E39E392.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N7/H9350GDWH6FB5MZQNJ2G3Q_Auto8.uasset'
+[2025.04.20-20.12.21:555][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FW/KWGY5DYYHAE7VL2HEPUFYA_Auto8
+[2025.04.20-20.12.21:555][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/KWGY5DYYHAE7VL2HEPUFYA_Auto8E94C0B7B4C2B8465B60479BFEF4BD1B2.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FW/KWGY5DYYHAE7VL2HEPUFYA_Auto8.uasset'
+[2025.04.20-20.12.21:560][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VW/P1N7FCH9A5H3GLY4T4C3XJ_Auto8
+[2025.04.20-20.12.21:560][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/P1N7FCH9A5H3GLY4T4C3XJ_Auto884C1571F43B44E1236294D9E9EC51440.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VW/P1N7FCH9A5H3GLY4T4C3XJ_Auto8.uasset'
+[2025.04.20-20.12.21:564][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UD/H9U8G7FMSFKP4109EL3KAO_Auto8
+[2025.04.20-20.12.21:564][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/H9U8G7FMSFKP4109EL3KAO_Auto8D5912E1C40F431C39A098791FE7D7969.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UD/H9U8G7FMSFKP4109EL3KAO_Auto8.uasset'
+[2025.04.20-20.12.21:570][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OQ/ZDT20FYPOJTN7WVX3WYA5Q_Auto8
+[2025.04.20-20.12.21:570][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/ZDT20FYPOJTN7WVX3WYA5Q_Auto834A8C2D44086F8C1521CDCA1B5784F45.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OQ/ZDT20FYPOJTN7WVX3WYA5Q_Auto8.uasset'
+[2025.04.20-20.12.21:575][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LT/IW81VV1RZRGVUQ33T53G23_Auto8
+[2025.04.20-20.12.21:575][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/IW81VV1RZRGVUQ33T53G23_Auto8EC3D87284CA4CC4B2BBE74AFA953809E.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LT/IW81VV1RZRGVUQ33T53G23_Auto8.uasset'
+[2025.04.20-20.12.21:580][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FA/6VGC6MZ8HVLW4JM6EO9KDT_Auto8
+[2025.04.20-20.12.21:580][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/6VGC6MZ8HVLW4JM6EO9KDT_Auto81ABF6D7A443177683F74ECBCDAC16026.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FA/6VGC6MZ8HVLW4JM6EO9KDT_Auto8.uasset'
+[2025.04.20-20.12.21:584][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.146
+[2025.04.20-20.12.21:584][371]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2025.04.20-20.12.21:585][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/JugglingBalls] ([1] browsable assets)...
+[2025.04.20-20.12.21:585][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JugglingBalls]
+[2025.04.20-20.12.21:589][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/JugglingBalls_Auto8
+[2025.04.20-20.12.21:589][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBalls_Auto8D41229294DD75A6D41621297F1AFC202.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/JugglingBalls_Auto8.uasset'
+[2025.04.20-20.12.21:591][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/JugglingBall] ([1] browsable assets)...
+[2025.04.20-20.12.21:591][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/JugglingBall]
+[2025.04.20-20.12.21:597][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/JugglingBall_Auto8
+[2025.04.20-20.12.21:597][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/JugglingBall_Auto8D9C188CC485964CB4AE7B2ADA8FC3915.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/JugglingBall_Auto8.uasset'
+[2025.04.20-20.12.21:599][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/PlatformTexture] ([1] browsable assets)...
+[2025.04.20-20.12.21:599][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/PlatformTexture]
+[2025.04.20-20.12.21:604][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/PlatformTexture_Auto8
+[2025.04.20-20.12.21:604][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/PlatformTexture_Auto8A3C8777F47664AE4CEE591A12157393E.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/PlatformTexture_Auto8.uasset'
+[2025.04.20-20.12.21:606][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Platform] ([1] browsable assets)...
+[2025.04.20-20.12.21:606][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Platform]
+[2025.04.20-20.12.21:612][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Platform_Auto8
+[2025.04.20-20.12.21:612][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Platform_Auto862359A454208986586ABF6AD896FFE4C.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Models/Platform_Auto8.uasset'
+[2025.04.20-20.12.21:613][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Grime] ([1] browsable assets)...
+[2025.04.20-20.12.21:614][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Grime]
+[2025.04.20-20.12.21:621][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Concrete_Grime_Auto8
+[2025.04.20-20.12.21:621][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/M_Concrete_Grime_Auto8915079F4409E247A1575FDB044436830.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Grime_Auto8.uasset'
+[2025.04.20-20.12.21:622][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march] ([1] browsable assets)...
+[2025.04.20-20.12.21:623][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march]
+[2025.04.20-20.12.21:632][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march_Auto8
+[2025.04.20-20.12.21:632][371]LogSavePackage: Moving '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/556321__ikerregular123__nightmarF928B0FA46D0896E89C9698E3BEB42F8.tmp' to '../../../../../../Users/Emily McCormack/OneDrive - Dundalk Institute of Technology/Documents/GitHub/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Audio_Files/556321__ikerregular123__nightmarish-circus-march_Auto8.uasset'
+[2025.04.20-20.12.21:633][371]LogFileHelpers: Auto-saving content packages took 0.049
+[2025.04.20-20.13.35:064][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6874.917480
+[2025.04.20-20.13.36:059][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-20.13.36:059][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6875.581055, Update Interval: 341.048004
+[2025.04.20-20.15.52:955][983]Cmd: EDIT COPY
+[2025.04.20-20.15.53:790][ 82]Cmd: EDIT PASTE
+[2025.04.20-20.16.03:785][149]Cmd: DELETE
+[2025.04.20-20.16.03:785][149]Cmd: ACTOR DELETE
+[2025.04.20-20.16.03:789][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.16.03:807][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.20-20.16.03:811][149]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.20-20.16.32:006][359]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.32:006][359]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.16.32:380][366]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.32:380][366]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.32:671][378]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.32:671][378]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.32:932][400]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.32:932][400]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.16.33:175][426]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.33:175][426]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.33:378][437]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.33:378][437]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.33:584][448]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.33:584][448]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.16.33:800][471]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.33:800][471]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.34:058][487]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.34:058][487]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.34:322][503]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.34:322][503]LogEditorTransaction: Undo Move Elements
+[2025.04.20-20.16.34:638][538]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.34:638][538]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.34:868][562]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.34:868][562]LogEditorTransaction: Undo Delete Elements
+[2025.04.20-20.16.35:209][592]Cmd: TRANSACTION UNDO
+[2025.04.20-20.16.35:209][592]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.20-20.16.36:173][695]Cmd: TRANSACTION REDO
+[2025.04.20-20.16.36:173][695]LogEditorTransaction: Redo Clicking on Elements
+[2025.04.20-20.16.36:514][700]Cmd: TRANSACTION REDO
+[2025.04.20-20.16.36:514][700]LogEditorTransaction: Redo Delete Elements
+[2025.04.20-20.16.50:976][299]Cmd: DELETE
+[2025.04.20-20.16.50:976][299]Cmd: ACTOR DELETE
+[2025.04.20-20.16.50:978][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.16.50:994][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.20-20.16.50:999][299]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.20-20.16.52:419][454]Cmd: EDIT COPY
+[2025.04.20-20.16.52:656][481]Cmd: EDIT PASTE
+[2025.04.20-20.17.25:540][730]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: a90...7b7
+[2025.04.20-20.17.25:541][730]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.74 RefreshExpires: 1.547e+07
+[2025.04.20-20.17.25:779][735]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: a90...7b7 Access[Expires: 2025.04.20-22.17.23 Remaining: 7200.32] Refresh[Expires: 2025-10-16T20:57:46.397Z Remaining: 15468023.40] State: Valid
+[2025.04.20-20.17.53:285][892]Cmd: EDIT COPY
+[2025.04.20-20.17.53:626][921]Cmd: EDIT PASTE
+[2025.04.20-20.18.15:469][343]Cmd: EDIT COPY
+[2025.04.20-20.18.15:691][368]Cmd: EDIT PASTE
+[2025.04.20-20.18.31:439][205]Cmd: EDIT COPY
+[2025.04.20-20.18.31:632][228]Cmd: EDIT PASTE
+[2025.04.20-20.18.40:253][156]Cmd: EDIT COPY
+[2025.04.20-20.18.40:462][181]Cmd: EDIT PASTE
+[2025.04.20-20.18.46:347][868]Cmd: TRANSACTION UNDO
+[2025.04.20-20.18.46:347][868]LogEditorTransaction: Undo Set Scale
+[2025.04.20-20.18.57:798][ 73]Cmd: EDIT COPY
+[2025.04.20-20.18.58:016][ 99]Cmd: EDIT PASTE
+[2025.04.20-20.19.10:899][511]Cmd: EDIT COPY
+[2025.04.20-20.19.11:168][542]Cmd: EDIT PASTE
+[2025.04.20-20.19.17:712][279]Cmd: EDIT COPY
+[2025.04.20-20.19.18:047][318]Cmd: EDIT PASTE
+[2025.04.20-20.19.28:977][516]Cmd: EDIT COPY
+[2025.04.20-20.19.29:197][536]Cmd: EDIT PASTE
+[2025.04.20-20.19.34:784][123]Cmd: DELETE
+[2025.04.20-20.19.34:784][123]Cmd: ACTOR DELETE
+[2025.04.20-20.19.34:787][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.19.34:806][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.04.20-20.19.34:810][123]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.04.20-20.19.49:029][730]Cmd: TRANSACTION UNDO
+[2025.04.20-20.19.49:029][730]LogEditorTransaction: Undo Set Scale
+[2025.04.20-20.19.51:085][913]Cmd: TRANSACTION UNDO
+[2025.04.20-20.19.51:085][913]LogEditorTransaction: Undo Set Scale
+[2025.04.20-20.20.00:792][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7260.645996
+[2025.04.20-20.20.00:899][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.20-20.20.00:899][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7260.745605, Update Interval: 309.164703
+[2025.04.20-20.20.07:238][753]Cmd: DELETE
+[2025.04.20-20.20.07:238][753]Cmd: ACTOR DELETE
+[2025.04.20-20.20.07:240][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.20-20.20.07:257][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.20-20.20.07:262][753]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.20-20.20.38:509][233]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.20-20.20.43:469][790]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.20-20.20.46:006][ 50]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.20-20.20.48:357][271]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.20-20.20.50:053][451]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.20-20.20.51:304][599]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.20-20.20.51:313][599]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.20-20.20.51:313][599]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.20-20.20.51:321][599]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8.368 ms (total: 150.137 ms)
+[2025.04.20-20.20.51:321][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.20-20.20.51:343][599]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.20-20.20.51:352][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009460s)
+[2025.04.20-20.20.51:352][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009499s)
+[2025.04.20-20.20.51:367][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.20-20.20.51:370][599]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.20-20.20.51:372][599]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.20-20.20.51:372][599]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.20-20.20.51:372][599]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.20-20.20.51:372][599]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.20-20.20.51:374][599]LogWorldPartition: Display: WorldPartition initialize took 3.118 ms (total: 160.741 ms)
+[2025.04.20-20.20.51:374][599]LogPlayLevel: PIE: World Init took: (0.004820s)
+[2025.04.20-20.20.51:375][599]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.20-20.20.51:375][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.20-20.20.51:375][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.20-20.20.51:375][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.20-20.20.51:375][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.20-20.20.51:375][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.20-20.20.51:378][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.20-20.20.51:392][599]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Kitty V2)
+[2025.04.20-20.20.51:392][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.20-20.20.51:392][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.20-20.20.51:392][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.20-20.20.51:393][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.04.20-20.20.51:393][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.04.20-20.20.51:395][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.04.20-20.20.51:395][599]LogInit: FAudioDevice initialized with ID 21.
+[2025.04.20-20.20.51:395][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.04.20-20.20.51:395][599]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.04.20-20.20.51:395][599]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.20-20.20.51:398][599]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.20-20.20.51:404][599]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.20-21.20.51
+[2025.04.20-20.20.51:404][599]LogWorld: Bringing up level for play took: 0.005704
+[2025.04.20-20.20.51:408][599]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.04.20-20.20.51:413][599]PIE: Server logged in
+[2025.04.20-20.20.51:414][599]PIE: Play in editor total start time 0.101 seconds.
+[2025.04.20-20.20.56:437][193]LogDerivedDataCache: C:/Users/Emily McCormack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.20-20.21.00:423][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-20.21.00:423][667]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.20-20.21.00:423][667]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.20-20.21.00:424][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-20.21.00:426][667]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.20-20.21.00:430][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.20-20.21.00:433][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.20-20.21.00:451][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.20-20.21.00:451][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.20-20.21.00:451][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.20-20.21.00:453][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.20-20.21.00:460][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.20-20.21.00:510][668]LogPlayLevel: Display: Destroying online subsystem :Context_31
