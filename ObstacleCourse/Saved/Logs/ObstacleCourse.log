@@ -2059,3 +2059,109 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.12-18.02.24:402][481]AssetCheck: /Game/Tests/TestMap Validating asset
 [2026.01.12-18.02.24:413][481]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
 [2026.01.12-18.02.24:439][481]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.12-18.03.05:283][890]LogDerivedDataCache: C:/Users/zakwh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.12-18.05.01:619][806]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.12-18.05.01:630][806]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.12-18.05.01:637][806]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.12-18.05.01:650][807]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.12-18.05.11:231][857]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Test_Health_Damaged
+[2026.01.12-18.05.11:239][857]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.12-18.05.12:744][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/BP_Test_Health_Damaged.BP_Test_Health_Damaged
+[2026.01.12-18.05.12:745][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.12-18.05.12:839][998]LogStreaming: Display: FlushAsyncLoading(1093): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.12-18.05.15:865][115]LogSlate: Took 0.007079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.12-18.05.48:039][ 26]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.12-18.05.59:368][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.12-18.05.59:918][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-18.05.59:984][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/BP_Test_Health_Damaged] ([2] browsable assets)...
+[2026.01.12-18.05.59:984][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/BP_Test_Health_Damaged]
+[2026.01.12-18.05.59:984][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tests/BP_Test_Health_Damaged" FILE="../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/Tests/BP_Test_Health_Damaged.uasset" SILENT=true
+[2026.01.12-18.05.59:996][197]LogSavePackage: Moving output files for package: /Game/Tests/BP_Test_Health_Damaged
+[2026.01.12-18.05.59:996][197]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/BP_Test_Health_Damaged07AE7F9345546B71C4CC599F7976C35D.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/Tests/BP_Test_Health_Damaged.uasset'
+[2026.01.12-18.06.00:014][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.747 ms (total: 181.726 ms)
+[2026.01.12-18.06.00:059][197]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-18.06.00:059][197]LogContentValidation: Enabled validators:
+[2026.01.12-18.06.00:059][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-18.06.00:059][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-18.06.00:059][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-18.06.00:059][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-18.06.00:060][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-18.06.00:060][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-18.06.00:060][197]AssetCheck: /Game/Tests/BP_Test_Health_Damaged Validating asset
+[2026.01.12-18.06.00:095][197]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.12-18.06.02:015][380]LogSlate: Window 'BP_Test_Health_Damaged' being destroyed
+[2026.01.12-18.06.10:086][292]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.12-18.06.10:086][292]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.12-18.06.10:089][292]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Tests/TestMap.TestMap:PersistentLevel.TargetPoint_UAID_244BFECC72DAAFB402_2027403377
+[2026.01.12-18.06.10:089][292]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Tests/TestMap.TestMap:PersistentLevel.TargetPoint_UAID_244BFECC72DAAFB402_2027403377
+[2026.01.12-18.06.23:817][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.12-18.06.23:921][682]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.12-18.06.29:917][290]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.12-18.06.29:917][290]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TargetPoint
+[2026.01.12-18.06.29:919][290]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Tests/TestMap.TestMap:PersistentLevel.TargetPoint_UAID_244BFECC72DAAFB402_2047234378
+[2026.01.12-18.06.29:919][290]LogActorFactory: Actor Factory spawned Class /Script/Engine.TargetPoint as actor: TargetPoint /Game/Tests/TestMap.TestMap:PersistentLevel.TargetPoint_UAID_244BFECC72DAAFB402_2047234378
+[2026.01.12-18.06.39:175][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-18.06.39:220][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Tests/TestMap/7/4U/ZGHR29E5AXZKLH4ZNACFS9
+[2026.01.12-18.06.39:220][205]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/ZGHR29E5AXZKLH4ZNACFS9414E7C7C47FF119914B9BB8FAB89CBEB.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/Tests/TestMap/7/4U/ZGHR29E5AXZKLH4ZNACFS9.uasset'
+[2026.01.12-18.06.39:230][205]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Tests/TestMap/C/6M/G48DHDNVLHM557LQD881MT
+[2026.01.12-18.06.39:230][205]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/G48DHDNVLHM557LQD881MT8A29A444475B4292EDF9F6A8B0ECDC94.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/__ExternalActors__/Tests/TestMap/C/6M/G48DHDNVLHM557LQD881MT.uasset'
+[2026.01.12-18.06.39:247][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.230 ms (total: 253.956 ms)
+[2026.01.12-18.06.39:302][205]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.12-18.06.39:302][205]LogContentValidation: Enabled validators:
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-18.06.39:302][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-18.06.39:302][205]AssetCheck: /Game/Tests/TestMap Validating asset
+[2026.01.12-18.06.39:340][205]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.12-18.06.48:930][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.490875
+[2026.01.12-18.06.49:138][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.06.49:139][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.690521, Update Interval: 356.969513
+[2026.01.12-18.11.49:502][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.01.12-18.11.49:506][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Tests/TestMap' took 0.052
+[2026.01.12-18.11.49:506][200]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/BP_Test_Health_Damaged] ([2] browsable assets)...
+[2026.01.12-18.11.49:506][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/BP_Test_Health_Damaged]
+[2026.01.12-18.11.49:521][200]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tests/BP_Test_Health_Damaged_Auto1
+[2026.01.12-18.11.49:521][200]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/BP_Test_Health_Damaged_Auto13DAE1A2B4F6590C68C0D349661D3DA38.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/Autosaves/Game/Tests/BP_Test_Health_Damaged_Auto1.uasset'
+[2026.01.12-18.11.49:521][200]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.01.12-18.12.49:116][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 697.673462
+[2026.01.12-18.12.49:233][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.12.49:233][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 697.782410, Update Interval: 353.691833
+[2026.01.12-18.18.49:708][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1058.260742
+[2026.01.12-18.18.49:850][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.18.49:850][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1058.394775, Update Interval: 310.876801
+[2026.01.12-18.24.11:584][141]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.135254
+[2026.01.12-18.24.11:708][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.24.11:708][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1380.251221, Update Interval: 313.141876
+[2026.01.12-18.29.47:209][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1715.767090
+[2026.01.12-18.29.47:335][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.29.47:335][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1715.884155, Update Interval: 348.658112
+[2026.01.12-18.36.12:146][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2100.699219
+[2026.01.12-18.36.12:272][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.36.12:272][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2100.816162, Update Interval: 325.604431
+[2026.01.12-18.42.09:338][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2457.899902
+[2026.01.12-18.42.09:488][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.42.09:488][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2458.041016, Update Interval: 344.549072
+[2026.01.12-18.43.24:437][126]LogEditorTransaction: Undo Split Struct Pin
+[2026.01.12-18.48.46:426][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2854.987793
+[2026.01.12-18.48.46:551][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.12-18.48.46:551][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2855.105225, Update Interval: 307.666870
+[2026.01.12-18.51.49:062][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.01.12-18.51.49:786][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.12-18.51.49:840][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/BP_Test_Health_Damaged] ([2] browsable assets)...
+[2026.01.12-18.51.49:840][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/BP_Test_Health_Damaged]
+[2026.01.12-18.51.49:840][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tests/BP_Test_Health_Damaged" FILE="../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/Tests/BP_Test_Health_Damaged.uasset" SILENT=true
+[2026.01.12-18.51.49:859][527]LogSavePackage: Moving output files for package: /Game/Tests/BP_Test_Health_Damaged
+[2026.01.12-18.51.49:859][527]LogSavePackage: Moving '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Saved/BP_Test_Health_DamagedEB654BEF41EA3334D8DDD89FCD0F8479.tmp' to '../../../../../../Games Dev/CA2_Beta_OBC/ObstacleCourse/Content/Tests/BP_Test_Health_Damaged.uasset'
+[2026.01.12-18.51.49:869][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.894 ms (total: 336.850 ms)
+[2026.01.12-18.51.49:907][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.12-18.51.49:907][527]LogContentValidation: Enabled validators:
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.12-18.51.49:907][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.12-18.51.49:907][527]AssetCheck: /Game/Tests/BP_Test_Health_Damaged Validating asset
